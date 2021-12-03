@@ -9,4 +9,4 @@ Feel free to open [a new GitHub issue](https://github.com/sonnat/sonnat-design-k
 
 ## Roadmap
 
-Our [GitHub project's roadmap](#) is where you can learn about what features we're working on, what stage they're at, and when we expect to bring them to you.
+Our [GitHub project's roadmap](https://github.com/sonnat/sonnat-design-kit/projects/1) is where you can learn about what features we're working on, what stage they're at, and when we expect to bring them to you.
